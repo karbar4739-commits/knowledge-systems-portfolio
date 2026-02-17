@@ -50,4 +50,5 @@ See: architecture/design_principles.md
 
 ## Publication
 
-Related research note available on Zenodo: https://lnkd.in/e4CQgdhH
+Related research note available on Zenodo:
+https://zenodo.org/records/18258394
