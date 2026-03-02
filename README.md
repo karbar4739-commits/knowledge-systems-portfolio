@@ -48,7 +48,10 @@ All systems are built around:
 
 See: architecture/design_principles.md
 
-## Publication
+## Publications
 
-Related research note available on Zenodo:
-https://zenodo.org/records/18258394
+Related research notes available on Zenodo:
+
+- https://zenodo.org/records/18258394
+- https://zenodo.org/records/18826907
+- https://zenodo.org/records/18827008
